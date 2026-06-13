@@ -1,0 +1,9 @@
+```txt
+streamlit
+pandas
+google-api-python-client
+matplotlib
+wordcloud
+pillow
+numpy
+```
